@@ -21,8 +21,7 @@ Este repositorio incluye:
 
 ## Vista previa de la aplicación
 
-![alt](https://raw.githubusercontent.com/AngelBernaal/PriceCarML/main/CarPricesML/img.png)
-
+![Interfaz del Estimador](https://raw.githubusercontent.com/AngelBernaal/PriceCarML/main/img.png)
 
 
 ## Flujo completo del proyecto
