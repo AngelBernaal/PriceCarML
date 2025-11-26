@@ -79,7 +79,6 @@ Estas métricas permiten validar que el modelo **generaliza adecuadamente**.
 El modelo final se guardó usando `joblib`:
 
 ```python
-import joblib
 joblib.dump(rf_model, 'car_price_model.pkl')
 ```
 
